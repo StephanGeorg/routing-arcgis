@@ -2,7 +2,7 @@
   "name": "routing-arcgis",
   "description": "Leightweight node.js wrapper for the ESRI ArcGIS Online Routing Services",
   "main": "index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "repository": {
     "type": "git",
